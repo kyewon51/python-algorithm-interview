@@ -1,3 +1,4 @@
+//2024.05.03. first study//
 from typing import List
 
 
